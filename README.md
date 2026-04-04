@@ -27,7 +27,7 @@ In the "garage office," I primarily work with:
 
 ## 📬 About Me
 
-I am an Electrical Engineer based in **Santa Clara, CA**. When I'm not tweaking Home Assistant or 3D printing parts for a new hexapod, I'm usually DMing a tabletop RPG or writing sci-fi in the style of Edgar Rice Burroughs.
+I am an Electrical and Computer Engineer based in **Santa Clara, CA**. When I'm not tweaking Home Assistant or 3D printing parts for a new hexapod, I'm usually DMing a tabletop RPG or writing sci-fi in the style of Edgar Rice Burroughs.
 
 > "The only way to discover the limits of the possible is to go beyond them into the impossible." — Arthur C. Clarke
 
