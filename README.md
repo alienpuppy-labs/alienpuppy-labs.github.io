@@ -8,7 +8,7 @@ Welcome to my personal engineering and hobbyist hub. This repository serves as t
 
 Here are some of the tools and projects I'm currently hosting:
 
-* **[2024 Election Map Tool](https://alienpuppy-labs.github.io/maps/election-map/)** – An interactive map for tracking and calculating election scenarios.
+* **[2024 Election Map Tool](https://alienpuppy-labs.github.io/maps/electoral-college/)** – An interactive map for tracking and calculating election scenarios.
 * **[Light Speed Calculator](https://alienpuppy-labs.github.io/space/)** – A specialized tool for physics-based unit conversions.
 * **[Personal Cookbook](https://alienpuppy-labs.github.io/cookbook/)** – A collection of recipes formatted via LaTeX and HTML.
 
